@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppSSEO.PageInicio">
+  <ScrollView  Orientation = "Vertical" VerticalOptions="StartAndExpand">
+    <StackLayout Padding="10" Spacing="10" Orientation="Vertical" VerticalOptions="FillAndExpand">
+      
+      <Button Text="Ir a Evaluaciones" x:Name="BtnIr"></Button>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>
